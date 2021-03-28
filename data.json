@@ -1,1 +1,194 @@
-{ "Communication": [{ "Input": "Hello myself Mr. Dushyant, I am a third year physiotherapy student.", "Keyword": "Hello", "Output": "Hello" }, { "Input": "Can I take you as my case? I will ask you few questions regarding your diseases and examine accordingly.", "Keyword": "Case", "Output": "Yes" }, { "Input": "Whats is your name", "Keyword": "name", "Output": "I am Narayan Jadhav" }, { "Input": "What is your age", "Keyword": "age", "Output": "50 years" }, { "Input": "What is your occupation", "Keyword": "occupation", "Output": "farmer" }, { "Input": "What is your religion", "Keyword": "religion", "Output": "Hindu" }, { "Input": "When were you first short of breath (at exercise or at rest)", "Keyword": "First", "Output": "I used to get breathless while doing heavy farmer work but since last 2 years it has gradually increased and now I am short of breath at rest also." }, { "Input": "How often are you short of breath?", "Keyword": "Often", "Output": "Frequently" }, { "Input": "How long have you been short of breath?", "Keyword": "long", "Output": "Since last 15 days i get breathless after doing activities of daily living" }, { "Input": "How far can you walk, and how many steps can you climb before having to stop because of shortness of breath?", "Keyword": "walk", "Output": "Since 15 days difficulty in doing ADLS before that stop for breath after walking 100m" }, { "Input": "How often and when do you cough?", "Keyword": "cough", "Output": "Frequently" }, { "Input": "How long have you been coughing?", "Keyword": "coughing", "Output": "Increased since the last 15 days. But usually there on and off since last 3 to 4 years" }, { "Input": "Is it getting worse?", "Keyword": "worse", "Output": "Yes" }, { "Input": "Do you cough mucus (sputum)?", "Keyword": "mucus (sputum)", "Output": "Yes" }, { "Input": "What color is it?", "Keyword": "color", "Output": "minimal white" }, { "Input": "Have you ever coughed up blood?", "Keyword": "blood", "Output": "No" }, { "Input": "How was the fever, its onset, progression, intensity, diurnal variation aggravating and relieving factor? Any other associated complaints with fever.", "Keyword": "fever", "Output": "No fever was there." }, { "Input": "Difficulty in doing ADLS", "Keyword": "ADLS", "Output": "Yes" }, { "Input": "Chest tightness", "Keyword": "Chest", "Output": "Yes. When the symptoms get worse" }, { "Input": "How many cigarettes do you smoke per day?", "Keyword": "cigarettes", "Output": "Stopped since 2 yr. But used to consume 10 cigarettes since age of 20" }, { "Input": "For TB/ other respiratory disease or similar symptoms", "Keyword": "Respiratory disease\n(or only respiratory)", "Output": "No" }, { "Input": "Do have any exposure to airborne irritants such as dust or chemicals on the job", "Keyword": "Dust", "Output": "Yes. At farm fields" }, { "Input": "Childhood history of respiratory illness", "Keyword": "Childhood", "Output": "No" }, { "Input": "Any medical condition.", "Keyword": "Medical condition", "Output": "No" } ] }
+{
+    "Communication": [
+        {
+            "Input": "Hello I am/myself physiotherapy student. Can I take you as my case? I will ask you few questions regarding your diseases and examine accordingly.",
+            "Keyword": "Hello",
+            "Output": "Yes doctor"
+        },
+        {
+            "Input": "Whats is your name",
+            "Keyword": "name",
+            "Output": "I am Mr. Narayan "
+        },
+        {
+            "Input": "What is your age",
+            "Keyword": "age",
+            "Output": "I am 60 years old"
+        },
+        {
+            "Input": "Where do you stay/address/residence/village/town?",
+            "Keyword": "stay",
+            "Output": "I am from rasulabad village"
+        },
+        {
+            "Input": "What is your education?",
+            "Keyword": "education",
+            "Output": "matriculate"
+        },
+	    {
+            "Input": "What is your occupation?",
+            "Keyword": "occupation",
+            "Output": "Farmer"
+        },
+        {
+            "Input": "What is your marital status/married?",
+            "Keyword": "marital",
+            "Output": "I am married."
+        },
+	    {
+            "Input": "What is your religion?",
+            "Keyword": "religion",
+            "Output": "Hindu"
+        },
+        {
+            "Input": "What is your chief complaint?",
+            "Keyword": "complaint",
+            "Output": "came to this hospital because of difficulty of breathing."
+        },
+        {
+            "Input": "When were you staredt/experienced /first short of breath (at exercise or at rest)?",
+            "Keyword": "started",
+            "Output": "I used to get breathless while doing heavy farmer work but since last 2 years it has gradually increased and now I am short of breath at rest also."
+        },
+        {
+            "Input": "How long /since/days/months/weeks have you been short of breath? Is it getting worse?",
+            "Keyword": "long",
+            "Output": "Since last 15 days i get breathless after doing activities of daily living"
+        },
+        {
+            "Input": "What are the factors thatincrease /Aggravates your Shortness of breath/breathlessness?",
+            "Keyword": "factors",
+            "Output": "Since 15 days little difficulty in doing Activies of Daily living before that stop for breath after walking 100m"
+        },
+        {
+            "Input": "What are the exaggerate/aggravating /increases and settle /relievingfactors for cough?",
+            "Keyword": "cough",
+            "Output": "Frequently"
+        },
+        {
+            "Input": "Do you have complain of cough ,How frequently and when do you cough?",
+            "Keyword": "coughing",
+            "Output": "Yes. Increased since last 15 days. But usually there on and off since last 3 to 4 years."
+        },
+        {
+            "Input": "Is it getting worse?",
+            "Keyword": "worse",
+            "Output": "Yes"
+        },
+        {
+            "Input": "Do you cough mucus?",
+            "Keyword": "mucus",
+            "Output": "Yes"
+        },
+	    {
+            "Input": "Do you cough sputum?",
+            "Keyword": "sputum",
+            "Output": "Yes"
+        },
+        {
+            "Input": "What is the quality, consistency and colour of sputum?",
+            "Keyword": "color of sputum",
+            "Output": "minimal white"
+        },
+        {
+            "Input": "Do you have difficulty in doing Activities of daily living/ household chores/personal care/daily rountine work?",
+            "Keyword": "activities",
+            "Output": "Yes"
+        },
+        {
+            "Input": "Do you have chest tightness",
+            "Keyword": "chest",
+            "Output": "Yes"
+        },
+        {
+            "Input": "Do you have loss of appetite",
+            "Keyword": "appetite",
+            "Output": "No"
+        },
+        {
+            "Input": "Do you have loss of weight?",
+            "Keyword": "weight",
+            "Output": "NO"
+        },
+        {
+            "Input": "Do you have blood in sputum or while coughing/hemoptysis?",
+            "Keyword": "blood",
+            "Output": "No"
+        },
+        {
+            "Input": "Do you have chest pain?",
+            "Keyword": "chest pain",
+            "Output": "NO"
+        },
+        {
+            "Input": "Do you get breathless in lying down position?",
+            "Keyword": "breathless",
+            "Output": "No"
+        },
+        {
+            "Input": "Do you feel your heart beat/palpitation?",
+            "Keyword": "beat",
+            "Output": "no"
+        },
+        {
+            "Input": "Do you feel your heart beat/palpitation?",
+            "Keyword": "palpitation",
+            "Output": "No"
+        },
+        {
+            "Input": "Do you feel sudden short of breath /breathlessness during sleep?",
+            "Keyword": "breathlessness",
+            "Output": "No"
+        },
+        {
+            "Input": "DO you have similar complains in past few years and any hospital admission for the same?",
+            "Keyword": "hospital admission",
+            "Output": "No hospital admissionsas but i used to get breathless and used to visit the local physician and symptoms used to get relieved."
+        },
+        {
+            "Input": "Do you have history of TB, asthma, DM and HTN",
+            "Keyword": "history",
+            "Output": "No"
+        },
+        {
+            "Input": "What is you diet veg or non veg?",
+            "Keyword": "veg",
+            "Output": "Mixed"
+        },
+        {
+            "Input": "Do you have any addiction",
+            "Keyword": "addiction",
+            "Output": "Yes. Smoking 1 pack per day"
+        },
+        {
+            "Input": "Do you have any issue with passing stool emptying stomach/ and urine",
+            "Keyword": "stool",
+            "Output": "No"
+        },
+        {
+            "Input": "Do you have any allergy to household dust",
+            "Keyword": "household dust",
+            "Output": "while working on farm fields and cold air some times"
+        },
+        {
+            "Input": "Are you on any medications",
+            "Keyword": "medications",
+            "Output": "not on regular basis. took in past and discontinues as symptoms settled down. now as prescribed by doctors"
+        },
+        {
+            "Input": "Any family member ever had history of TB, Other respiratory disease or similar complaints",
+            "Keyword": "history",
+            "Output": "NO"
+        },
+        {
+            "Input": "Do you have any exposure to airborn irritants such as chemical and dust in jobs?",
+            "Keyword": "exposure",
+            "Output": "No"
+        },
+        {
+            "Input": "Do you have any childhood history of respiratory illness?",
+            "Keyword": "childhood",
+            "Output": "No"
+        },
+    ]
+}
