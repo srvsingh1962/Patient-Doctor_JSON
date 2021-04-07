@@ -354,7 +354,7 @@
       },
       {
          "Question":"What is your marital status?",
-         "Keyword":"marital status"
+         "Keyword":"marital"
       },
       {
          "Question":"What is your religion?",
@@ -363,7 +363,7 @@
       },
       {
          "Question":"What is your chief complaint?",
-         "Keyword":"chief complaint",
+         "Keyword":"complaint",
          "Answer":"came to this hospital because of difficulty of breathing."
       },
       {
@@ -378,12 +378,17 @@
       },
       {
          "Question":"What are the factors thatincrease /Aggravates  your Shortness of breath/breathlessness?",
-         "Keyword":"shortness of breath",
+         "Keyword":"breath",
          "Answer":"Since 15 days little difficulty in doing Activities of Daily living before that stop for breath after walking 100m"
       },
       {
          "Question":"What are the factors thatincrease /Aggravates  your Shortness of breath/breathlessness?",
-         "Keyword":"breathlessness",
+         "Keyword":"breathe",
+         "Answer":"Since 15 days little difficulty in doing Activities of Daily living before that stop for breath after walking 100m"
+      },
+      {
+         "Question":"What are the factors that increase /Aggravates  your Shortness of breath/breathlessness?",
+         "Keyword":"increases",
          "Answer":"Since 15 days little difficulty in doing Activities of Daily living before that stop for breath after walking 100m"
       },
       {
@@ -412,18 +417,23 @@
          "Answer":"If present white ,semi liquid"
       },
       {
+         "Question":"What is the quality, consistency and colour of sputum?",
+         "Keyword":"color",
+         "Answer":"If present white ,semi liquid"
+      },
+      {
          "Question":"Do you have had fever?",
          "Keyword":"fever",
          "Answer":"At present as such no fever. One week back mild fever was there  but now settle down."
       },
       {
          "Question":"Do you have difficulty in doing Activities of daily living/ household chores/personal care/daily rountine work?",
-         "Keyword":"routine work",
+         "Keyword":"work",
          "Answer":"Yes"
       },
       {
          "Question":"Do you have chest tightness ?",
-         "Keyword":"chest tightness",
+         "Keyword":"tightness",
          "Answer":"Yes. When symptoms get worse."
       },
       {
@@ -443,7 +453,7 @@
       },
       {
          "Question":"Do you have chest pain?",
-         "Keyword":"chest pain",
+         "Keyword":"pain",
          "Answer":"NO"
       },
       {
@@ -463,25 +473,26 @@
       },
       {
          "Question":"Do you feel sudden short of breath /breathlessness during sleep?",
-         "Keyword":"sudden short of breath",
+         "Keyword":"short",
          "Answer":"NO"
       },
       {
          "Question":"Do you feel sudden short of breath /breathlessness during sleep?",
-         "Keyword":"breathlessness during sleep",
+         "Keyword":"sleep",
          "Answer":"NO"
       },
       {
-         "Question":"DO you have similar complains in past few years and any hospital admission for the same?",
-         "Keyword":"similar complains in past",
+         "Question":"DO you have similar complaints in past few years and any hospital admission for the same?",
+         "Keyword":"past",
          "Answer":"No hospital admissionsas  but i used to get breathless and used to visit the local physician and symptoms used to get relieved."
       },
       {
          "Question":"Do you have history of TB, asthma, DM and HTN",
-         "Keyword":"TB",
+         "Keyword":"tb",
          "Answer":"NO"
       },
       {
+         "Question":"Do you have history of TB, asthma, DM and HTN",
          "Keyword":"asthma",
          "Answer":"no"
       },
@@ -527,7 +538,7 @@
       },
       {
          "Question":"Do you have any exposure to airborn irritants such as chemical and dust in jobs?",
-         "Keyword":"airborn irritants",
+         "Keyword":"irritants",
          "Answer":"no"
       },
       {
