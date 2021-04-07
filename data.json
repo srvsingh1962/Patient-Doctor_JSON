@@ -1,583 +1,555 @@
 {
-  "Findings": [
-    {
-      "Inspection": [
-        {
-          "Shape of the chest": [
-            {
-              "Question": " Anteroposterior  and transverse diameter()",
-              "Option": [
-                {
-                  "1": "2:1"
-                },
-                {
-                  "2": "4:1"
-                },
-                {
-                  "3": "1:2"
-                }
-              ],
-              "Answer": "3"
-            },
-            {
-              "Question": "Hollowing, bulging, flattening or retraction",
-              "Option": [
-                {
-                  "1": "Present"
-                },
-                {
-                  "2": "Absent"
-                },
-                {
-                  "3": "None of these"
-                }
-              ],
-              "Answer": "2"
-            },
-            {
-              "Question": "Shoulders",
-              "Option": [
-                {
-                  "1": "Protracted"
-                },
-                {
-                  "2": "Retracted"
-                },
-                {
-                  "3": "Normal"
-                }
-              ],
-              "Answer": "3"
-            },
-            {
-              "Question": "Spine",
-              "Option": [
-                {
-                  "1": "Normal"
-                },
-                {
-                  "2": "Kyphosis"
-                },
-                {
-                  "3": "Scoliosis"
-                }
-              ],
-              "Answer": "1"
-            },
-            {
-              "Question": "Spinoscapula distance both the side(student can observe from back)",
-              "Option": [
-                {
-                  "1": "Equidistant"
-                },
-                {
-                  "2": "Not equidistant"
-                },
-                {
-                  "3": "None of these"
-                }
-              ],
-              "Answer": "1"
-            }
-          ]
-        },
-        {
-          "Respiratory Movements": [
-            {
-              "Question": "Respiratory Rate(24 bpm)",
-              "Option": [
-                {
-                  "1": "Normal"
-                },
-                {
-                  "2": "Tachypnoe"
-                },
-                {
-                  "3": "Bradypnea"
-                }
-              ],
-              "Answer": "2"
-            },
-            {
-              "Question": "Rhythm",
-              "Option": [
-                {
-                  "1": "Regular"
-                },
-                {
-                  "2": "Irregular"
-                },
-                {
-                  "3": "None of these"
-                }
-              ],
-              "Answer": "1"
-            },
-            {
-              "Question": "Character",
-              "Option": [
-                {
-                  "1": "Abdominothoracic"
-                },
-                {
-                  "2": "Thoraco-abdominals"
-                },
-                {
-                  "3": "None of these"
-                }
-              ],
-              "Answer": "1"
-            },
-            {
-              "Question": "Equality",
-              "Option": [
-                {
-                  "1": "Symmetrical bilaterally"
-                },
-                {
-                  "2": "Unsymmetrical bilaterally"
-                },
-                {
-                  "3": "None of these"
-                }
-              ],
-              "Answer": "1"
-            },
-            {
-              "Question": "Accesory muscle of respiration",
-              "Option": [
-                {
-                  "1": "Absent"
-                },
-                {
-                  "2": "Present"
-                },
-                {
-                  "3": "None of these"
-                }
-              ],
-              "Answer": "1"
-            }
-          ]
-        },
-        {
-          "Mediastinum": [
-            {
-              "Question": "Trail sign",
-              "Option": [
-                {
-                  "1": "Absent"
-                },
-                {
-                  "2": "Present"
-                },
-                {
-                  "3": "None of these"
-                }
-              ],
-              "Answer": "1"
-            },
-            {
-              "Question": "Apex Impulse",
-              "Option": [
-                {
-                  "1": "Normal"
-                },
-                {
-                  "2": "Shifted"
-                },
-                {
-                  "3": "None of these"
-                }
-              ],
-              "Answer": "1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Palpation": [
-        {
-          "Question": "Chest Movement (Student perform)",
-          "Option": [
-            {
-              "1": "Symmetrical bilaterally"
-            },
-            {
-              "2": "Unsymmetrical bilaterally"
-            },
-            {
-              "3": "None of these"
-            }
-          ],
-          "Answer": "1"
-        },
-        {
-          "Question": "Trachea",
-          "Option": [
-            {
-              "1": "Centrally"
-            },
-            {
-              "2": "Deviated"
-            },
-            {
-              "3": "None of these"
-            }
-          ],
-          "Answer": "1"
-        },
-        {
-          "Question": "Tactile vocal fremitus(Student perform)",
-          "Option": [
-            {
-              "1": "Increase"
-            },
-            {
-              "2": "decrease"
-            },
-            {
-              "3": "Normal"
-            }
-          ],
-          "Answer": "3"
-        },
-        {
-          "Question": "Apex",
-          "Option": [
-            {
-              "1": "Shifted"
-            },
-            {
-              "2": "Normal"
-            },
-            {
-              "3": "None of these"
-            }
-          ],
-          "Answer": "2"
-        }
-      ]
-    },
-    {
-      "Percussion": [
-        {
-          "Question": "Supramammary, Inframammary, suprascapular,infrascapular,SupraAxillary and infra axillary",
-          "Option": [
-            {
-              "1": "Resonant Note"
-            },
-            {
-              "2": "Dull Note"
-            },
-            {
-              "3": "Stony dull note"
-            }
-          ],
-          "Answer": "1"
-        }
-      ]
-    },
-    {
-      "Auscultation": [
-        {
-          "Question": "Air entry(Sound effects)",
-          "Option": [
-            {
-              "1": "Bilaterally equal"
-            },
-            {
-              "2": "Diminished right side"
-            },
-            {
-              "3": "Diminished Left side"
-            }
-          ],
-          "Answer": "1"
-        },
-        {
-          "Question": "Foreign sounds(Sound effects)",
-          "Option": [
-            {
-              "1": "Rhonchi"
-            },
-            {
-              "2": "Bronchial"
-            },
-            {
-              "3": "repititions"
-            }
-          ],
-          "Answer": "1"
-        },
-        {
-          "Question": "Vocal Resonace",
-          "Option": [
-            {
-              "1": "Normal resonce heard"
-            },
-            {
-              "2": "Diminished"
-            },
-            {
-              "3": "Altered"
-            }
-          ],
-          "Answer": "1"
-        }
-      ]
-    }
-  ],
-  "Communication": [
-    {
-      "Question": "Hello I am/myself physiotherapy student. Can I take you as my case? I will ask you few questions regarding your diseases and examine accordingly.",
-      "Keyword": "hello",
-      "Answer": "Yes doctor"
-    },
-    {
-      "Question": "Hello I am/myself physiotherapy student. Can I take you as my case? I will ask you few questions regarding your diseases and examine accordingly.",
-      "Keyword": "hi",
-      "Answer": "Yes doctor"
-    },
-    {
-      "Question": "What is your name?",
-      "Keyword": "name",
-      "Answer": "I am narayan"
-    },
-    {
-      "Question": "What is your Age?",
-      "Keyword": "age",
-      "Answer": "I am 60 years old"
-    },
-    {
-      "Question": "Where do you stay/address/residence/village/town?",
-      "Keyword": "stay",
-      "Answer": "I am from rasulabad village"
-    },
-    {
-      "Question": "Where do you stay/address/residence/village/town?",
-      "Keyword": "residence",
-      "Answer": "I am from rasulabad village"
-    },
-    {
-      "Question": "Where do you stay/address/residence/village/town?",
-      "Keyword": "village",
-      "Answer": "I am from rasulabad village"
-    },
-    {
-      "Question": "Where do you stay/address/residence/village/town?",
-      "Keyword": "town",
-      "Answer": "I am from rasulabad village"
-    },
-    {
-      "Question": "What is your education?",
-      "Keyword": "education",
-      "Answer": "matriculate"
-    },
-    {
-      "Question": "What is your occupation?",
-      "Keyword": "occupation",
-      "Answer": "Farmer"
-    },
-    {
-      "Question": "What is your married?",
-      "Keyword": "married",
-      "Answer": "I am married."
-    },
-    {
-      "Question": "What is your marital status?",
-      "Keyword": "marital"
-    },
-    {
-      "Question": "What is your religion?",
-      "Keyword": "religion",
-      "Answer": "Hindu"
-    },
-    {
-      "Question": "What is your chief complaint?",
-      "Keyword": "complaint",
-      "Answer": "came to this hospital because of difficulty of breathing."
-    },
-    {
-      "Question": "When were you started/experienced /first short of breath (at exercise or at rest)?",
-      "Keyword": "started",
-      "Answer": "I used to get breathless while doing heavy farmer work but since last 2 years it has gradually increased and now I am short of breath at rest also."
-    },
-    {
-      "Question": "How long /since/days/months/weeks have you been short of breath? Is it getting worse?",
-      "Keyword": "long",
-      "Answer": "Since last 15 days I get breathless  after doing activities of daily living"
-    },
-    {
-      "Question": "What are the factors thatincrease /Aggravates  your Shortness of breath/breathlessness?",
-      "Keyword": "breath",
-      "Answer": "Since 15 days little difficulty in doing Activities of Daily living before that stop for breath after walking 100m"
-    },
-    {
-      "Question": "What are the factors thatincrease /Aggravates  your Shortness of breath/breathlessness?",
-      "Keyword": "breathe",
-      "Answer": "Since 15 days little difficulty in doing Activities of Daily living before that stop for breath after walking 100m"
-    },
-    {
-      "Question": "What are the factors that increase /Aggravates  your Shortness of breath/breathlessness?",
-      "Keyword": "increases",
-      "Answer": "Since 15 days little difficulty in doing Activities of Daily living before that stop for breath after walking 100m"
-    },
-    {
-      "Question": "Do you have complain of cough ,How frequently and when do you cough?",
-      "Keyword": "frequently",
-      "Answer": "Yes. Increased since last 15 days. But usually there on and off since last 3 to 4 years."
-    },
-    {
-      "Question": "What are the exaggerate/aggravating /increases and settle /relievingfactors for cough?",
-      "Keyword": "cough",
-      "Answer": "As such there is no relieving and aggravating factor but in between I used while working in farm fields."
-    },
-    {
-      "Question": "Do you cough out mucus?",
-      "Keyword": "mucus",
-      "Answer": "Usually cough is dry."
-    },
-    {
-      "Question": "Do you cough out sputum?",
-      "Keyword": "sputum",
-      "Answer": "Usually cough is dry. "
-    },
-    {
-      "Question": "What is the quality, consistency and colour of sputum?",
-      "Keyword": "colour",
-      "Answer": "If present white ,semi liquid"
-    },
-    {
-      "Question": "What is the quality, consistency and colour of sputum?",
-      "Keyword": "color",
-      "Answer": "If present white ,semi liquid"
-    },
-    {
-      "Question": "Do you have had fever?",
-      "Keyword": "fever",
-      "Answer": "At present as such no fever. One week back mild fever was there  but now settle down."
-    },
-    {
-      "Question": "Do you have difficulty in doing Activities of daily living/ household chores/personal care/daily rountine work?",
-      "Keyword": "work",
-      "Answer": "Yes"
-    },
-    {
-      "Question": "Do you have chest tightness ?",
-      "Keyword": "tightness",
-      "Answer": "Yes. When symptoms get worse."
-    },
-    {
-      "Question": "Do you have loss of appetite",
-      "Keyword": "appetite",
-      "Answer": "NO"
-    },
-    {
-      "Question": "Do you have loss of weight?",
-      "Keyword": "weight",
-      "Answer": "NO"
-    },
-    {
-      "Question": "Do you have blood in sputum or while coughing/hemoptysis?",
-      "Keyword": "blood",
-      "Answer": "NO"
-    },
-    {
-      "Question": "Do you have chest pain?",
-      "Keyword": "pain",
-      "Answer": "NO"
-    },
-    {
-      "Question": "Do you get breathless in lying down position?(orthpnoea)",
-      "Keyword": "breathless",
-      "Answer": "NO"
-    },
-    {
-      "Question": "Do you feel your palpitation?",
-      "Keyword": "palpitation",
-      "Answer": "NO"
-    },
-    {
-      "Question": "Do you feel your heart beat?",
-      "Keyword": "heart beat",
-      "Answer": "NO"
-    },
-    {
-      "Question": "Do you feel sudden short of breath /breathlessness during sleep?",
-      "Keyword": "short",
-      "Answer": "NO"
-    },
-    {
-      "Question": "Do you feel sudden short of breath /breathlessness during sleep?",
-      "Keyword": "sleep",
-      "Answer": "NO"
-    },
-    {
-      "Question": "DO you have similar complaints in past few years and any hospital admission for the same?",
-      "Keyword": "past",
-      "Answer": "No hospital admissionsas  but i used to get breathless and used to visit the local physician and symptoms used to get relieved."
-    },
-    {
-      "Question": "Do you have history of TB, asthma, DM and HTN",
-      "Keyword": "tb",
-      "Answer": "NO"
-    },
-    {
-      "Question": "Do you have history of TB, asthma, DM and HTN",
-      "Keyword": "asthma",
-      "Answer": "no"
-    },
-    {
-      "Question": "What is you diet veg or non veg?",
-      "Keyword": "diet",
-      "Answer": "Mixed"
-    },
-    {
-      "Question": "Do you have any addiction",
-      "Keyword": "addiction",
-      "Answer": "Yes. Smoking 1 pack per day"
-    },
-    {
-      "Question": "Do you have any issue with passing stool emptying stomach/ and urine",
-      "Keyword": "stool",
-      "Answer": "NO"
-    },
-    {
-      "Question": "Do you have any allergy to household dust",
-      "Keyword": "allergy",
-      "Answer": "while working on farm fields and cold air some times"
-    },
-    {
-      "Question": "Are you on any medications",
-      "Keyword": "medications",
-      "Answer": "not on regular basis. took in past and discontinues as symptoms settled down. now as prescribed by doctors"
-    },
-    {
-      "Question": "Any family member ever had history of TB, Other respiratory disease or similar complaints",
-      "Keyword": "history",
-      "Answer": "no"
-    },
-    {
-      "Question": "Do you have any exposure to airborn irritants such as chemical and dust in jobs?",
-      "Keyword": "chemical",
-      "Answer": "no"
-    },
-    {
-      "Question": "Do you have any exposure to airborn irritants such as chemical and dust in jobs?",
-      "Keyword": "dust",
-      "Answer": "no"
-    },
-    {
-      "Question": "Do you have any exposure to airborn irritants such as chemical and dust in jobs?",
-      "Keyword": "irritants",
-      "Answer": "no"
-    },
-    {
-      "Question": "Do you have any childhood history of respiratory illness?",
-      "Keyword": "history",
-      "Answer": "no"
-    }
-  ]
+   "Findings":[
+         {
+            "Question":" Anteroposterior  and transverse diameter()",
+            "Option":[
+               {
+                  "1":"2:1"
+               },
+               {
+                  "2":"4:1"
+               },
+               {
+                  "3":"1:2"
+               }
+            ],
+            "Answer":"3"
+         },
+         {
+            "Question":"Hollowing, bulging, flattening or retraction",
+            "Option":[
+               {
+                  "1":"Present"
+               },
+               {
+                  "2":"Absent"
+               },
+               {
+                  "3":"None of these"
+               }
+            ],
+            "Answer":"2"
+         },
+         {
+            "Question":"Shoulders",
+            "Option":[
+               {
+                  "1":"Protracted"
+               },
+               {
+                  "2":"Retracted"
+               },
+               {
+                  "3":"Normal"
+               }
+            ],
+            "Answer":"3"
+         },
+         {
+            "Question":"Spine",
+            "Option":[
+               {
+                  "1":"Normal"
+               },
+               {
+                  "2":"Kyphosis"
+               },
+               {
+                  "3":"Scoliosis"
+               }
+            ],
+            "Answer":"1"
+         },
+         {
+            "Question":"Spinoscapula distance both the side(student can observe from back)",
+            "Option":[
+               {
+                  "1":"Equidistant"
+               },
+               {
+                  "2":"Not equidistant"
+               },
+               {
+                  "3":"None of these"
+               }
+            ],
+            "Answer":"1"
+         },
+         {
+            "Question":"Respiratory Rate(24 bpm)",
+            "Option":[
+               {
+                  "1":"Normal"
+               },
+               {
+                  "2":"Tachypnoe"
+               },
+               {
+                  "3":"Bradypnea"
+               }
+            ],
+            "Answer":"2"
+         },
+         {
+            "Question":"Rhythm",
+            "Option":[
+               {
+                  "1":"Regular"
+               },
+               {
+                  "2":"Irregular"
+               },
+               {
+                  "3":"None of these"
+               }
+            ],
+            "Answer":"1"
+         },
+         {
+            "Question":"Character",
+            "Option":[
+               {
+                  "1":"Abdominothoracic"
+               },
+               {
+                  "2":"Thoraco-abdominals"
+               },
+               {
+                  "3":"None of these"
+               }
+            ],
+            "Answer":"1"
+         },
+         {
+            "Question":"Equality",
+            "Option":[
+               {
+                  "1":"Symmetrical bilaterally"
+               },
+               {
+                  "2":"Unsymmetrical bilaterally"
+               },
+               {
+                  "3":"None of these"
+               }
+            ],
+            "Answer":"1"
+         },
+         {
+            "Question":"Accesory muscle of respiration",
+            "Option":[
+               {
+                  "1":"Absent"
+               },
+               {
+                  "2":"Present"
+               },
+               {
+                  "3":"None of these"
+               }
+            ],
+            "Answer":"1"
+         },
+         {
+            "Question":"Trail sign",
+            "Option":[
+               {
+                  "1":"Absent"
+               },
+               {
+                  "2":"Present"
+               },
+               {
+                  "3":"None of these"
+               }
+            ],
+            "Answer":"1"
+         },
+         {
+            "Question":"Apex Impulse",
+            "Option":[
+               {
+                  "1":"Normal"
+               },
+               {
+                  "2":"Shifted"
+               },
+               {
+                  "3":"None of these"
+               }
+            ],
+            "Answer":"1"
+         },
+         {
+            "Question":"Chest Movement (Student perform)",
+            "Option":[
+               {
+                  "1":"Symmetrical bilaterally"
+               },
+               {
+                  "2":"Unsymmetrical bilaterally"
+               },
+               {
+                  "3":"None of these"
+               }
+            ],
+            "Answer":"1"
+         },
+         {
+            "Question":"Trachea",
+            "Option":[
+               {
+                  "1":"Centrally"
+               },
+               {
+                  "2":"Deviated"
+               },
+               {
+                  "3":"None of these"
+               }
+            ],
+            "Answer":"1"
+         },
+         {
+            "Question":"Tactile vocal fremitus(Student perform)",
+            "Option":[
+               {
+                  "1":"Increase"
+               },
+               {
+                  "2":"decrease"
+               },
+               {
+                  "3":"Normal"
+               }
+            ],
+            "Answer":"3"
+         },
+         {
+            "Question":"Apex",
+            "Option":[
+               {
+                  "1":"Shifted"
+               },
+               {
+                  "2":"Normal"
+               },
+               {
+                  "3":"None of these"
+               }
+            ],
+            "Answer":"2"
+         },
+         {
+            "Question":"Supramammary, Inframammary, suprascapular,infrascapular,SupraAxillary and infra axillary",
+            "Option":[
+               {
+                  "1":"Resonant Note"
+               },
+               {
+                  "2":"Dull Note"
+               },
+               {
+                  "3":"Stony dull note"
+               }
+            ],
+            "Answer":"1"
+         },
+         {
+            "Question":"Air entry(Sound effects)",
+            "Option":[
+               {
+                  "1":"Bilaterally equal"
+               },
+               {
+                  "2":"Diminished right side"
+               },
+               {
+                  "3":"Diminished Left side"
+               }
+            ],
+            "Answer":"1"
+         },
+         {
+            "Question":"Foreign sounds(Sound effects)",
+            "Option":[
+               {
+                  "1":"Rhonchi"
+               },
+               {
+                  "2":"Bronchial"
+               },
+               {
+                  "3":"repititions"
+               }
+            ],
+            "Answer":"1"
+         },
+         {
+            "Question":"Vocal Resonace",
+            "Option":[
+               {
+                  "1":"Normal resonce heard"
+               },
+               {
+                  "2":"Diminished"
+               },
+               {
+                  "3":"Altered"
+               }
+            ],
+            "Answer":"1"
+         }
+   ],
+   "Communication":[
+      {
+         "Question":"Hello I am/myself physiotherapy student. Can I take you as my case? I will ask you few questions regarding your diseases and examine accordingly.",
+         "Keyword":"hello",
+         "Answer":"Yes doctor"
+      },
+      {
+         "Question":"Hello I am/myself physiotherapy student. Can I take you as my case? I will ask you few questions regarding your diseases and examine accordingly.",
+         "Keyword":"hi",
+         "Answer":"Yes doctor"
+      },
+      {
+         "Question":"What is your name?",
+         "Keyword":"name",
+         "Answer":"I am narayan"
+      },
+      {
+         "Question":"What is your Age?",
+         "Keyword":"age",
+         "Answer":"I am 60 years old"
+      },
+      {
+         "Question":"Where do you stay/address/residence/village/town?",
+         "Keyword":"stay",
+         "Answer":"I am from rasulabad village"
+      },
+      {
+         "Question":"Where do you stay/address/residence/village/town?",
+         "Keyword":"residence",
+         "Answer":"I am from rasulabad village"
+      },
+      {
+         "Question":"Where do you stay/address/residence/village/town?",
+         "Keyword":"village",
+         "Answer":"I am from rasulabad village"
+      },
+      {
+         "Question":"Where do you stay/address/residence/village/town?",
+         "Keyword":"town",
+         "Answer":"I am from rasulabad village"
+      },
+      {
+         "Question":"What is your education?",
+         "Keyword":"education",
+         "Answer":"matriculate"
+      },
+      {
+         "Question":"What is your occupation?",
+         "Keyword":"occupation",
+         "Answer":"Farmer"
+      },
+      {
+         "Question":"What is your married?",
+         "Keyword":"married",
+         "Answer":"I am married."
+      },
+      {
+         "Question":"What is your marital status?",
+         "Keyword":"marital"
+      },
+      {
+         "Question":"What is your religion?",
+         "Keyword":"religion",
+         "Answer":"Hindu"
+      },
+      {
+         "Question":"What is your chief complaint?",
+         "Keyword":"complaint",
+         "Answer":"came to this hospital because of difficulty of breathing."
+      },
+      {
+         "Question":"When were you started/experienced /first short of breath (at exercise or at rest)?",
+         "Keyword":"started",
+         "Answer":"I used to get breathless while doing heavy farmer work but since last 2 years it has gradually increased and now I am short of breath at rest also."
+      },
+      {
+         "Question":"How long /since/days/months/weeks have you been short of breath? Is it getting worse?",
+         "Keyword":"long",
+         "Answer":"Since last 15 days I get breathless  after doing activities of daily living"
+      },
+      {
+         "Question":"What are the factors thatincrease /Aggravates  your Shortness of breath/breathlessness?",
+         "Keyword":"breath",
+         "Answer":"Since 15 days little difficulty in doing Activities of Daily living before that stop for breath after walking 100m"
+      },
+      {
+         "Question":"What are the factors thatincrease /Aggravates  your Shortness of breath/breathlessness?",
+         "Keyword":"breathe",
+         "Answer":"Since 15 days little difficulty in doing Activities of Daily living before that stop for breath after walking 100m"
+      },
+      {
+         "Question":"What are the factors that increase /Aggravates  your Shortness of breath/breathlessness?",
+         "Keyword":"increases",
+         "Answer":"Since 15 days little difficulty in doing Activities of Daily living before that stop for breath after walking 100m"
+      },
+      {
+         "Question":"Do you have complain of cough ,How frequently and when do you cough?",
+         "Keyword":"frequently",
+         "Answer":"Yes. Increased since last 15 days. But usually there on and off since last 3 to 4 years."
+      },
+      {
+         "Question":"What are the exaggerate/aggravating /increases and settle /relievingfactors for cough?",
+         "Keyword":"cough",
+         "Answer":"As such there is no relieving and aggravating factor but in between I used while working in farm fields."
+      },
+      {
+         "Question":"Do you cough out mucus?",
+         "Keyword":"mucus",
+         "Answer":"Usually cough is dry."
+      },
+      {
+         "Question":"Do you cough out sputum?",
+         "Keyword":"sputum",
+         "Answer":"Usually cough is dry. "
+      },
+      {
+         "Question":"What is the quality, consistency and colour of sputum?",
+         "Keyword":"colour",
+         "Answer":"If present white ,semi liquid"
+      },
+      {
+         "Question":"What is the quality, consistency and colour of sputum?",
+         "Keyword":"color",
+         "Answer":"If present white ,semi liquid"
+      },
+      {
+         "Question":"Do you have had fever?",
+         "Keyword":"fever",
+         "Answer":"At present as such no fever. One week back mild fever was there  but now settle down."
+      },
+      {
+         "Question":"Do you have difficulty in doing Activities of daily living/ household chores/personal care/daily rountine work?",
+         "Keyword":"work",
+         "Answer":"Yes"
+      },
+      {
+         "Question":"Do you have chest tightness ?",
+         "Keyword":"tightness",
+         "Answer":"Yes. When symptoms get worse."
+      },
+      {
+         "Question":"Do you have loss of appetite",
+         "Keyword":"appetite",
+         "Answer":"NO"
+      },
+      {
+         "Question":"Do you have loss of weight?",
+         "Keyword":"weight",
+         "Answer":"NO"
+      },
+      {
+         "Question":"Do you have blood in sputum or while coughing/hemoptysis?",
+         "Keyword":"blood",
+         "Answer":"NO"
+      },
+      {
+         "Question":"Do you have chest pain?",
+         "Keyword":"pain",
+         "Answer":"NO"
+      },
+      {
+         "Question":"Do you get breathless in lying down position?(orthpnoea)",
+         "Keyword":"breathless",
+         "Answer":"NO"
+      },
+      {
+         "Question":"Do you feel your palpitation?",
+         "Keyword":"palpitation",
+         "Answer":"NO"
+      },
+      {
+         "Question":"Do you feel your heart beat?",
+         "Keyword":"heart beat",
+         "Answer":"NO"
+      },
+      {
+         "Question":"Do you feel sudden short of breath /breathlessness during sleep?",
+         "Keyword":"short",
+         "Answer":"NO"
+      },
+      {
+         "Question":"Do you feel sudden short of breath /breathlessness during sleep?",
+         "Keyword":"sleep",
+         "Answer":"NO"
+      },
+      {
+         "Question":"DO you have similar complaints in past few years and any hospital admission for the same?",
+         "Keyword":"past",
+         "Answer":"No hospital admissionsas  but i used to get breathless and used to visit the local physician and symptoms used to get relieved."
+      },
+      {
+         "Question":"Do you have history of TB, asthma, DM and HTN",
+         "Keyword":"tb",
+         "Answer":"NO"
+      },
+      {
+         "Question":"Do you have history of TB, asthma, DM and HTN",
+         "Keyword":"asthma",
+         "Answer":"no"
+      },
+      {
+         "Question":"What is you diet veg or non veg?",
+         "Keyword":"diet",
+         "Answer":"Mixed"
+      },
+      {
+         "Question":"Do you have any addiction",
+         "Keyword":"addiction",
+         "Answer":"Yes. Smoking 1 pack per day"
+      },
+      {
+         "Question":"Do you have any issue with passing stool emptying stomach/ and urine",
+         "Keyword":"stool",
+         "Answer":"NO"
+      },
+      {
+         "Question":"Do you have any allergy to household dust",
+         "Keyword":"allergy",
+         "Answer":"while working on farm fields and cold air some times"
+      },
+      {
+         "Question":"Are you on any medications",
+         "Keyword":"medications",
+         "Answer":"not on regular basis. took in past and discontinues as symptoms settled down. now as prescribed by doctors"
+      },
+      {
+         "Question":"Any family member ever had history of TB, Other respiratory disease or similar complaints",
+         "Keyword":"history",
+         "Answer":"no"
+      },
+      {
+         "Question":"Do you have any exposure to airborn irritants such as chemical and dust in jobs?",
+         "Keyword":"chemical",
+         "Answer":"no"
+      },
+      {
+         "Question":"Do you have any exposure to airborn irritants such as chemical and dust in jobs?",
+         "Keyword":"dust",
+         "Answer":"no"
+      },
+      {
+         "Question":"Do you have any exposure to airborn irritants such as chemical and dust in jobs?",
+         "Keyword":"irritants",
+         "Answer":"no"
+      },
+      {
+         "Question":"Do you have any childhood history of respiratory illness?",
+         "Keyword":"history",
+         "Answer":"no"
+      }
+   ]
 }
