@@ -171,7 +171,7 @@
       },
       {
          "Question":"Do you feel your heart beat?",
-         "Keyword":"heart beat",
+         "Keyword":"beat",
          "Answer":"NO"
       },
       {
@@ -191,7 +191,7 @@
       },
       {
          "Question":"Do you have history of TB, asthma, DM and HTN",
-         "Keyword":"tb",
+         "Keyword":"tuberculosis",
          "Answer":"NO"
       },
       {
@@ -210,8 +210,8 @@
          "Answer":"Yes. Smoking 1 pack per day"
       },
       {
-         "Question":"Do you have any issue with passing stool emptying stomach/ and urine",
-         "Keyword":"stool",
+         "Question":"Do you have any issue with passing stool /emptying stomach/ and urine",
+         "Keyword":"stomach",
          "Answer":"NO"
       },
       {
@@ -248,6 +248,16 @@
          "Question":"Do you have any childhood history of respiratory illness?",
          "Keyword":"history",
          "Answer":"no"
+      },
+      {
+         "Question":"How much is your family income",
+         "Keyword":"income",
+         "Answer":"Total income is approximately 20 -25k per month"
+      },
+      {
+         "Question":"number of members in family",
+         "Keyword":"members",
+         "Answer":"We are total 8 member"
       }
    ]
 }
