@@ -2,302 +2,142 @@
    "Findings":[
          {
             "Question":" Anteroposterior  and transverse diameter()",
-            "Option":[
-               {
-                  "1":"2:1"
-               },
-               {
-                  "2":"4:1"
-               },
-               {
-                  "3":"1:2"
-               }
-            ],
+            "1":"2:1",
+            "2":"4:1",
+            "3":"1:2",
             "Answer":"3"
          },
          {
             "Question":"Hollowing, bulging, flattening or retraction",
-            "Option":[
-               {
-                  "1":"Present"
-               },
-               {
-                  "2":"Absent"
-               },
-               {
-                  "3":"None of these"
-               }
-            ],
+            "1":"Present",
+            "2":"Absent",
+            "3":"None of these",
             "Answer":"2"
          },
          {
             "Question":"Shoulders",
-            "Option":[
-               {
-                  "1":"Protracted"
-               },
-               {
-                  "2":"Retracted"
-               },
-               {
-                  "3":"Normal"
-               }
-            ],
+            "1":"Protracted",
+            "2":"Retracted",
+            "3":"Normal",
             "Answer":"3"
          },
          {
             "Question":"Spine",
-            "Option":[
-               {
-                  "1":"Normal"
-               },
-               {
-                  "2":"Kyphosis"
-               },
-               {
-                  "3":"Scoliosis"
-               }
-            ],
+            "1":"Normal",
+            "2":"Kyphosis",
+            "3":"Scoliosis",
             "Answer":"1"
          },
          {
             "Question":"Spinoscapula distance both the side(student can observe from back)",
-            "Option":[
-               {
-                  "1":"Equidistant"
-               },
-               {
-                  "2":"Not equidistant"
-               },
-               {
-                  "3":"None of these"
-               }
-            ],
+            "1":"Equidistant",
+            "2":"Not equidistant",
+            "3":"None of these",
             "Answer":"1"
          },
          {
             "Question":"Respiratory Rate(24 bpm)",
-            "Option":[
-               {
-                  "1":"Normal"
-               },
-               {
-                  "2":"Tachypnoe"
-               },
-               {
-                  "3":"Bradypnea"
-               }
-            ],
+            "1":"Normal",
+            "2":"Tachypnoe",
+            "3":"Bradypnea",
             "Answer":"2"
          },
          {
             "Question":"Rhythm",
-            "Option":[
-               {
-                  "1":"Regular"
-               },
-               {
-                  "2":"Irregular"
-               },
-               {
-                  "3":"None of these"
-               }
-            ],
+            "1":"Regular",
+            "2":"Irregular",
+            "3":"None of these",
             "Answer":"1"
          },
          {
             "Question":"Character",
-            "Option":[
-               {
-                  "1":"Abdominothoracic"
-               },
-               {
-                  "2":"Thoraco-abdominals"
-               },
-               {
-                  "3":"None of these"
-               }
-            ],
+            "1":"Abdominothoracic",
+            "2":"Thoraco-abdominals",
+            "3":"None of these",
             "Answer":"1"
          },
          {
             "Question":"Equality",
-            "Option":[
-               {
-                  "1":"Symmetrical bilaterally"
-               },
-               {
-                  "2":"Unsymmetrical bilaterally"
-               },
-               {
-                  "3":"None of these"
-               }
-            ],
+            "1":"Symmetrical bilaterally",
+            "2":"Unsymmetrical bilaterally",
+            "3":"None of these",
             "Answer":"1"
          },
          {
             "Question":"Accesory muscle of respiration",
-            "Option":[
-               {
-                  "1":"Absent"
-               },
-               {
-                  "2":"Present"
-               },
-               {
-                  "3":"None of these"
-               }
-            ],
+            "1":"Absent",
+            "2":"Present",
+            "3":"None of these",
             "Answer":"1"
          },
          {
             "Question":"Trail sign",
-            "Option":[
-               {
-                  "1":"Absent"
-               },
-               {
-                  "2":"Present"
-               },
-               {
-                  "3":"None of these"
-               }
-            ],
+            "1":"Absent",
+            "2":"Present",
+            "3":"None of these",
             "Answer":"1"
          },
          {
             "Question":"Apex Impulse",
-            "Option":[
-               {
-                  "1":"Normal"
-               },
-               {
-                  "2":"Shifted"
-               },
-               {
-                  "3":"None of these"
-               }
-            ],
+            "1":"Normal",
+            "2":"Shifted",
+            "3":"None of these",
             "Answer":"1"
          },
          {
             "Question":"Chest Movement (Student perform)",
-            "Option":[
-               {
-                  "1":"Symmetrical bilaterally"
-               },
-               {
-                  "2":"Unsymmetrical bilaterally"
-               },
-               {
-                  "3":"None of these"
-               }
-            ],
+            "1":"Symmetrical bilaterally",
+            "2":"Unsymmetrical bilaterally",
+            "3":"None of these",
             "Answer":"1"
          },
          {
             "Question":"Trachea",
-            "Option":[
-               {
-                  "1":"Centrally"
-               },
-               {
-                  "2":"Deviated"
-               },
-               {
-                  "3":"None of these"
-               }
-            ],
+            "1":"Centrally",
+            "2":"Deviated",
+            "3":"None of these",
             "Answer":"1"
          },
          {
             "Question":"Tactile vocal fremitus(Student perform)",
-            "Option":[
-               {
-                  "1":"Increase"
-               },
-               {
-                  "2":"decrease"
-               },
-               {
-                  "3":"Normal"
-               }
-            ],
+            "1":"Increase",
+            "2":"decrease",
+            "3":"Normal",
             "Answer":"3"
          },
          {
             "Question":"Apex",
-            "Option":[
-               {
-                  "1":"Shifted"
-               },
-               {
-                  "2":"Normal"
-               },
-               {
-                  "3":"None of these"
-               }
-            ],
+            "1":"Shifted",
+            "2":"Normal",
+            "3":"None of these",
             "Answer":"2"
          },
          {
             "Question":"Supramammary, Inframammary, suprascapular,infrascapular,SupraAxillary and infra axillary",
-            "Option":[
-               {
-                  "1":"Resonant Note"
-               },
-               {
-                  "2":"Dull Note"
-               },
-               {
-                  "3":"Stony dull note"
-               }
-            ],
+            "1":"Resonant Note",
+            "2":"Dull Note",
+            "3":"Stony dull note",
             "Answer":"1"
          },
          {
             "Question":"Air entry(Sound effects)",
-            "Option":[
-               {
-                  "1":"Bilaterally equal"
-               },
-               {
-                  "2":"Diminished right side"
-               },
-               {
-                  "3":"Diminished Left side"
-               }
-            ],
+            "1":"Bilaterally equal",
+            "2":"Diminished right side",
+            "3":"Diminished Left side",
             "Answer":"1"
          },
          {
             "Question":"Foreign sounds(Sound effects)",
-            "Option":[
-               {
-                  "1":"Rhonchi"
-               },
-               {
-                  "2":"Bronchial"
-               },
-               {
-                  "3":"repititions"
-               }
-            ],
+            "1":"Rhonchi",
+            "2":"Bronchial",
+            "3":"repititions",
             "Answer":"1"
          },
          {
             "Question":"Vocal Resonace",
-            "Option":[
-               {
-                  "1":"Normal resonce heard"
-               },
-               {
-                  "2":"Diminished"
-               },
-               {
-                  "3":"Altered"
-               }
-            ],
+            "1":"Normal resonce heard",
+            "2":"Diminished",
+            "3":"Altered",
             "Answer":"1"
          }
    ],
